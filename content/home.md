@@ -7,4 +7,6 @@ cats:
   - description: Grumpy cat is an American celebrity cat known for her grumpy appearance.
     name: Grumpy cat (Tardar Sauce)
 ---
+![Goose height="300px" ](/img/6365906_0.jpg)
+
 test
